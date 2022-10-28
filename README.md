@@ -1,15 +1,15 @@
 # Reportagem Petroleo
 Site em formato de reportagem sobre o petróleo em Química Orgânica
 
-# Papéis 
+## Papéis 
 Pedro: ambientalista e químico
 Bigas: geólogo
 Ana: repórter
 Caio: historiador
 
-# Tópicos
+## Tópicos
 
-# Ambientalista e químico 
+## Ambientalista e químico 
 
 Autossuficiência e pré-sal, no caso do Brasil; 
 
