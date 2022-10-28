@@ -1,0 +1,56 @@
+body {
+    background-color: #1a1a1a;
+}
+.navbar-brand{
+    color: #e9e9e9f3;
+    font-size: 27px;
+}
+.container {
+    padding-top: 180px;
+}
+
+.dropdown-item {
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.dropdown-item:hover {
+    color: rgba(255, 255, 255, 0.653);
+}
+
+*::selection {
+    color: rgb(27, 27, 27);
+    background-color: #aab0ff;
+}
+
+#text {
+    margin: auto;
+    font-size: 20px;
+    color: #e9e9e9e4;
+}
+
+#text h2 {
+    color: #5479F7;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.col img {
+    max-width: 450px;
+}
+/**Scrollbar**/
+body::-webkit-scrollbar {
+    width: 0.8rem;
+}
+
+body::-webkit-scrollbar-track {
+    background: #84786B;
+
+}
+
+body::-webkit-scrollbar-thumb {
+    background: #5479F7;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+    background: #aab0ff;
+}
