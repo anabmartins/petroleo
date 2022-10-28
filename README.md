@@ -9,17 +9,13 @@ Caio: historiador
 
 ## Tópicos
 
-## Ambientalista e químico 
+### Ambientalista e químico 
+* Autossuficiência e pré-sal, no caso do Brasil; 
+* Desastres ambientais; 
+* Hidrocarbonetos;
+* Destilação fracionada - refinaria - craqueamento; 
 
-Autossuficiência e pré-sal, no caso do Brasil; 
-
-Desastres ambientais; 
-
-Hidrocarbonetos
-
-Destilação fracionada - refinaria - craqueamento; 
-
-# Geólogo
+### Geólogo
 
 Tipos de rochas envolvidas;  
 
@@ -27,7 +23,7 @@ Retirada do petróleo e porque não se retira todo o petróleo de um lugar;
 
 Densidade e aplicações conforme a densidade; 
 
-# Historiador
+### Historiador
 
 Petróleo no mundo (questões histórica/econômicas);
 
