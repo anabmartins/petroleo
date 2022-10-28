@@ -4,17 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Carbono</title>
+    <title>Petróleo</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="icon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="./img/icon.png" type="image/x-icon">
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg bg-light">
+    <nav class="navbar navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Reportagem Química</a>
+            <a class="navbar-brand" href="index.html">Reportagem Petróleo</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -23,34 +23,42 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                        <a class="nav-link" href="#">Reportagens</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                    <li class="nav-item dropdown bg-dark">
+                        <a class="nav-link navbar-dark dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                             aria-expanded="false">
-                            Dropdown
+                            Tópicos
                         </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        <ul class="dropdown-menu navbar-dark">
+                            <li><a class="dropdown-item" href="#">Ambiente/Química</a></li>
+                            <li><a class="dropdown-item" href="#">Geografia</a></li>
+                            <li><a class="dropdown-item" href="#">História</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled">Disabled</a>
+                        <a class="nav-link">Editorial</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
-    <div class="container">
-<h1>Carbono</h1>
+    <div id="container-imagem">
+
+    </div>
+    <div class="container text-white text-center">
+        <div class="row">
+            <div class="col" id="text">
+               <h2>Petróleo</h2>
+               <p>Petróleo é um combustível fóssil que corresponde a uma substância oleosa 
+                cuja densidade é inferior à da água e é inflamável. É considerado um dos 
+                principais recursos naturais utilizados como fonte de energia da atualidade.
+            </p>
+            </div>
+            <div class="col">
+                <img src="./img/pet1.png" class="img-fluid">
+            </div>
+        </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
