@@ -67,3 +67,20 @@ body::-webkit-scrollbar-thumb:hover {
     font-size: 19px;
     color: #dfdfdf;
 }
+@media screen and
+(min-width: 200px) and
+(max-width: 640px){
+img.img-fluid{
+ max-width: 34vh;
+}
+.col p{
+   font-size: 17px; 
+}
+.container .row{
+    margin-left: 9px;
+    margin-right: 9px;
+}
+#edit h1{
+    padding-bottom: 6vh;
+}
+}
