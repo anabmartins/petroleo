@@ -54,3 +54,16 @@ body::-webkit-scrollbar-thumb {
 body::-webkit-scrollbar-thumb:hover {
     background: #aab0ff;
 }
+#edit h1{
+    color: #5479F7;
+    margin-bottom: 2vw;
+}
+#edit h2{
+    color: #dfdfdf;
+    margin-bottom: 1vw;
+    margin-top: 1vw;
+}
+#edit p{
+    font-size: 19px;
+    color: #dfdfdf;
+}
