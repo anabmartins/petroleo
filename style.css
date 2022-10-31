@@ -122,7 +122,9 @@ body::-webkit-scrollbar-thumb:hover {
 #areas img:hover {
     transform: scale(1.2);
 }
-
+#pet img{
+    max-width: 30vh;
+}
 a {
     color: #5479F7;
 }
