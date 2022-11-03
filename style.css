@@ -146,4 +146,9 @@ a:active {
 .card{
     margin-bottom: 10vh;
     margin-top: 10vh;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.card-title{
+    margin-bottom: 20px;
 }
