@@ -107,8 +107,17 @@ body::-webkit-scrollbar-thumb:hover {
     font-size: 19px;
     color: #dfdfdf;
 }
+.card{
+    margin-bottom: 10vh;
+    margin-top: 10vh;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.card-title{
+    margin-bottom: 20px;
+}
 
-@media screen and (min-width: 200px) and (max-width: 640px) {
+@media screen and (min-width: 200px) and (max-width: 945px) {
     img.img-fluid {
         max-width: 34vh;
         margin-top: 20px;
@@ -135,6 +144,13 @@ body::-webkit-scrollbar-thumb:hover {
 
     .container {
         padding-top: 58px;
+    }
+    .card{
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    .card-title{
+        margin-bottom: 20px;
     }
 }
 
@@ -167,13 +183,4 @@ a:hover {
 
 a:active {
     text-decoration: none;
-}
-.card{
-    margin-bottom: 10vh;
-    margin-top: 10vh;
-    margin-left: 25%;
-    margin-right: 25%;
-}
-.card-title{
-    margin-bottom: 20px;
 }
