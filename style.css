@@ -146,6 +146,7 @@ body::-webkit-scrollbar-thumb:hover {
         padding-top: 58px;
     }
     .card{
+        margin-top: 25px;
         margin-left: 25px;
         margin-right: 25px;
     }
